@@ -1,1 +1,1 @@
-
+# Response to Blumenstock Reading
