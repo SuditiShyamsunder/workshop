@@ -4,6 +4,6 @@
 
 ### Suditi Shyamsunder 
 
-Here is a brief bio about me. 
+#### Here is my work for the class: 
 
 [Blumenstock Response](blumenstock.md)
