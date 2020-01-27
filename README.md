@@ -6,4 +6,4 @@
 
 Here is a brief bio about me. 
 
-[Blumenstock](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+[Blumenstock](https://github.com/SuditiShyamsunder/workshop2/blob/master/blumenstock.md)
