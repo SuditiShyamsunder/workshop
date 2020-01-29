@@ -1,9 +1,7 @@
-# Evolving Solutions 
+# DATA 150: Catalog of Work
 
-## DATA 150 
+## Suditi Shyamsunder
 
-### Suditi Shyamsunder 
-
-#### Catalog of Work: 
+### Readings
 
 [Blumenstock Response]( https://suditishyamsunder.github.io/workshop/blumenstock)
