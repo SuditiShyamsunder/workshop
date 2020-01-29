@@ -6,4 +6,4 @@
 
 #### Catalog of Work: 
 
-[Blumenstock Response](SuditiShyamsunder.github.io/workshop/blumenstock)
+[Blumenstock Response]( https://suditishyamsunder.github.io/workshop/blumenstock)
