@@ -4,6 +4,6 @@
 
 ### Suditi Shyamsunder 
 
-#### Here is my work for the class: 
+#### Catalog of Work: 
 
 [Blumenstock Response](blumenstock.md)
