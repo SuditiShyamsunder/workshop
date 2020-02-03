@@ -6,4 +6,4 @@
 
 [Blumenstock Response]( https://suditishyamsunder.github.io/workshop/blumenstock)
 
-[Jahan/Rosling Response]( https://suditishyamsunder.github.io//workshop//jahanrosling)
+[Jahan/Rosling Response]( https://suditishyamsunder.github.io//workshop/jahanrosling)
