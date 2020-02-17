@@ -1,8 +1,7 @@
 # Barder Video 
 ## Data 150
 
-### What was the Harrod-Domar model? What are the two fundamental variables in this model? 
-Who was Walter Rostow and what was this impact of his work on development?
+### What was the Harrod-Domar model? What are the two fundamental variables in this model? Who was Walter Rostow and what was this impact of his work on development?
 
 The Harrod-Domar growth model was prevalent after the second world war, and focused around the idea of capital. The model claimed that one unit of output required a certain amoint of capital and a certain amount of labor. The example that Barder gave was that in order to create a yard of cloth, one would need capital such as a loom and labor such as a weaver's effort. This model states that in order to increase output of an economy, developing countries need to have sufficient capital and labor. Since, there is plenty of labor in these countries, the missimg factor was thought to be capital. 
 
