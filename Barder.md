@@ -1,7 +1,13 @@
 # Barder Video 
 ## Data 150
 
-What was the Harrod-Domar model? What are the two fundamental variables in this model? 
+### What was the Harrod-Domar model? What are the two fundamental variables in this model? 
 Who was Walter Rostow and what was this impact of his work on development?
 
-The Harrod-Domar growth model was prevalent after the second world war, and focused arounf the idea of capital. 
+The Harrod-Domar growth model was prevalent after the second world war, and focused around the idea of capital. The model claimed that one unit of output required a certain amoint of capital and a certain amount of labor. The example that Barder gave was that in order to create a yard of cloth, one would need capital such as a loom and labor such as a weaver's effort. This model states that in order to increase output of an economy, developing countries need to have sufficient capital and labor. Since, there is plenty of labor in these countries, the missimg factor was thought to be capital. 
+
+Waltor Rostow was the author od the book The Stages of Economic Growth. In his book, he discussed his throry that development moves in a cycle and that as investment increases, so does capital which leaads to more growth, higher incomes, and more savings. He believed that greater investment would lead countries into "self-sustained growth". His model was very influential and provided good reasoning for foreign aid.
+
+### What was the toaster project? What did Thomas Thwaites attempt to do? Was he successful? What is the significance of this example in the context of complexity? 
+
+The toaster project refers to the endeavor of a man neamed Thomas Thwaites to recreate a toaster from scrach on his own. He worked to gather the raw materials and assemble everything from there himself. He bought the simplest cheapest toaster he could find (for only about 6 dollars) and began attempting to replicate it. He went to an ore mine to collect iron ore which he was eventually able to smelt in the microwave, and he had to melt down pieces of old plastic and mold it into the shape he wanted. He had to work very hard over 9 months to put together a pretty unattractive toaster that worked for only about 5 seconds before it caught on fire. The point he made was that even something as simple and readily available in our society as a toaster has been through a complicated process to be made and requires a lot of moving parts to be created. This shows that development is not actually just output from one entity but rather a system of many parts such as social, technological, financial, and legal institutions that come together to form a society that works for the citizens and can accomplish tasks such as providing toasters for all. 
