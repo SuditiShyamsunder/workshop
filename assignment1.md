@@ -24,7 +24,7 @@ Amartya Sen’s definition of human development fits well with this article beca
 
 ## Source 2: 
 
-  Bee, Margaret, et al. “Neonatal Care Practices in Sub-Saharan Africa: a Systematic Review of Quantitative and Qualitative Data.” Journal of Health, Population and Nutrition, vol. 37, no. 1, 2018.
+  Bee, Margaret, et al. “Neonatal Care Practices in Sub-Saharan Africa: a Systematic Review of Quantitative and Qualitative Data.” *Journal of Health*, Population and Nutrition, vol. 37, no. 1, 2018.
 
 This article discusses neonatal care practices across sub-Saharan Africa. Some of the most important newborn care practices include thermal care (immediate drying and wrapping), skin-to-skin contact after delivery, hygienic cord care, and early initiation of breastfeeding. This paper assesses how different parts of sub-Saharan Africa are fairing in these practices with their own newborns after delivery. The research was conducted by gathering hundreds of articles from recent years with raw data regarding this newborn care in sub-Saharan Africa (primarily Ethiopia, Ghana, Malawi, Tanzania, and Uganda), which were then screened and narrowed to 42. Qualitative data was “extracted and summarized” and the qualitative data was “synthesized through thematic analysis with deductive coding used to identify emergent themes.” With data from dozens of articles, the researchers discovered much variation in newborn care practices across the different countries in sub-Saharan Africa. However, prevalence of skin-to-skin contact after delivery was particularly low throughout the region. As a whole, there was a general understanding of the necessity to keep newborns warm, however, the thermal care practices were not up to par. Drying and wrapping of the child was often postponed because the birth attendant was more focused on the mother. They also often delayed breastfeeding due to a belief that no milk was being produced or that the baby did not appear hungry. 
 
@@ -34,7 +34,7 @@ The authors of this article focused on uncovering how well different parts of su
 
 ## Source 3: 
 
-  Bosomprah, Samuel, et al. “Spatial Distribution of Emergency Obstetric and Newborn Care Services in Ghana: Using the Evidence to Plan Interventions.” International Journal of Gynecology & Obstetrics, vol. 132, no. 1, 2015.
+  Bosomprah, Samuel, et al. “Spatial Distribution of Emergency Obstetric and Newborn Care Services in Ghana: Using the Evidence to Plan Interventions.” *International Journal of Gynecology & Obstetrics*, vol. 132, no. 1, 2015.
 
 In this article, data was collected and analyzed regarding the quality of care provided by different facilities in Ghana for women and newborns. The facilities referenced in this article were being rated based on different essential functions regarding Emergency Obstetric and Newborn Care (EmONC). The results of this study uncovered that a mere 21% of births in facilities in Ghana occured in those that were fully functioning. Additionally, 30% occurred in facilities that were close to fully functioning but were missing a couple basic functions such as “assisted vaginal delivery and removal of retained products.” The purpose of this study was to establish a clear way to improve the obstetric care able to be offered to newborns and their mothers throughout the country. This data analysis showed that by just putting a few more resources in the facilities that are close to but not quite fully functioning, the country has the capability to bump their total percentage of fully functioning facilities to over 50% and thus would allow them to meet international standards for EmONC services. This is a method to target resources on where they could be most effective and have the most benefit for the country as a whole. 
 
@@ -44,7 +44,7 @@ The data for this study was collected from the Ghana EmONC survey, which was a �
 
 ## Source 4: 
 
-  Neal, Sarah, et al. “Mapping Adolescent First Births within Three East African Countries Using Data from Demographic and Health Surveys: Exploring Geospatial Methods to Inform Policy.” Reproductive Health, vol. 13, no. 1, 23 Aug. 2016.
+  Neal, Sarah, et al. “Mapping Adolescent First Births within Three East African Countries Using Data from Demographic and Health Surveys: Exploring Geospatial Methods to Inform Policy.” *Reproductive Health*, vol. 13, no. 1, 23 Aug. 2016.
 
 In order to get a greater understanding of the quality of maternal and newborn health in developing countries around the world, it is important to have a baseline understanding of the populations that exist in the studies area. This article focuses on mapping the distributions of women of childbearing age, pregnancies, and birth. This is a particularly useful endeavor because discovering methods for safer births and healthier newborns could be improved by more accurate estimations of these populations. This study uses data from WorldPop to analyze and map different statistics in 4 main countries: Afghanistan, Bangladesh, Ethiopia, and Tanzania. UN statistics on age specific fertility rates, live births, stillbirths, and abortions were also included in their data analysis. 
 
@@ -53,7 +53,7 @@ This article works to investigate estimates of different populations of women an
 
 ## Source 5: 
 
-  Tatem, Andrew J, et al. “Mapping for Maternal and Newborn Health: the Distributions of Women of Childbearing Age, Pregnancies and Births.” International Journal of Health Geographics, vol. 13, no. 1, 4 Jan. 2014.
+  Tatem, Andrew J, et al. “Mapping for Maternal and Newborn Health: the Distributions of Women of Childbearing Age, Pregnancies and Births.” *International Journal of Health Geographics*, vol. 13, no. 1, 4 Jan. 2014.
 
 Becoming pregnant as an adolescent can create significant complications in the life of a young woman. It has the potential to decrease quality of life and health for the young mother as well as her child. This study maps data on adolescent first births in Uganda, Kenya, and Tanzania in order to gain a better understanding of the distribution that can later be used to inform policy. The data used in this study came from the most recent Demographic and Health Surveys (DHS) in these three east African nations. The researchers analyzed the data from first births before the age of 20 but also disaggregated it into three groups: under 16, 16-17, and 18-19 years of age. Using this data combined with GPS-located cluster data and adaptive bandwidth kernel density estimates, they were able to create descriptive choropleths, and prevalence maps. They also used a Bayesian hierarchical regression modeling approach to mao adolescent first birth at a district level with estimates of uncertainty. In essence, they used data science techniques to discover the distribution of first births to young mothers in these countries. 
 
