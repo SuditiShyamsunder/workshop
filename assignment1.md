@@ -14,7 +14,8 @@ In developing nations in Africa, the quality of newborn and maternal care needs 
 
 ## Source 1:
 
-     Armstrong, Corinne E., et al. “Subnational Variation for Care at Birth in Tanzania: Is This Explained by Place, People,          Money or Drugs?” *BMC Public Health*, vol. 16, no. S2, 2016.
+Armstrong, Corinne E., et al. “Subnational Variation for Care at Birth in Tanzania: Is This Explained by Place, People,        
+          Money or Drugs?” *BMC Public Health*, vol. 16, no. S2, 2016.
 
 This article seeks to explain the true story behind Tanzania’s care at birth practices across the nation. Although Tanzania won the Millennium Development Goal for Child Survival, the country has not been progressing their maternal and neonatal care methods. In fact, Tanzania ranks in the top ten countries with the highest number of stillbirths, newborn deaths, and maternal deaths annually. The primary issue is that Tanzania has so much variation between its borders that national studies often do not show the whole story. In Hans Rosling’s TED Talk, he discussed the danger of treating countries as their average value and this study is following the same principle. Rather than averaging that statistics throughout Tanzania, this article researches subnational variation for care at birth in 21 regions of the country. 
 
