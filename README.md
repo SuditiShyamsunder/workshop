@@ -12,4 +12,4 @@
 
 [Assignment 1]( https://suditishyamsunder.github.io/workshop/assignment1) 
 
-[Anderson/Kitchin Response] (https://suditishyamsunder.github.io/workshop/andersonkitchin)
+[Anderson/Kitchin Response](https://suditishyamsunder.github.io/workshop/andersonkitchin)
