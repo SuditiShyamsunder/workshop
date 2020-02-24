@@ -1,4 +1,4 @@
-Suditi Shyamsunderr
+Suditi Shyamsunder
 
 Professor Tyler Frazier
 
