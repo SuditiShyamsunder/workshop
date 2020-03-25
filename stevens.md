@@ -12,8 +12,12 @@ A machine learning algorithm uses data in order to create a model that can then 
 
 ### In the reading, the authors use a number of geospatial covariates as predictors in their machine learning method. What were these geospatial covariates and approximately how big of a data set did they represent (in general terms)? What is the significance of big data in the estimation of machine learning methods for inferring the correlates and drivers of human population distributions?
 
-Geospatial covariates are variables that 
+Geospatial covariates are variables that have the potential to help the model make predictions. In this case there were many covariates related to the area being studies such as nighttime lights, temperature, and other measures of the geography. Big data is very significant in the estimation of machine leanrning methods for inferring correlates and drivers of human population distribution because the large amount of data allowed the model to be more effective and the predictions to be more accurate. 
 
 ### The authors’ results present a remarkable improvement over previous geospatial descriptions at very high resolution, of the distribution of the human population. Within the context of human development in LMICs, what is the significance of having a highly accurate description of where each person is located across planet earth?
 
+Having a highly accurate description of human population distribution across the planet is incredibly useful in many different ways. This information allows us to measure the impact of population growth, understand our effects on the environment, determine how monetary resources ought to be distributed, and what policies need to be created and enacted. 
+
 ### Within the context of human development in LMICs, what is the relevance to your area of investigation in having a highly accurate description of where each household and person is located across planet earth?
+
+This information is particularly relevant to my area of investigation. I am looking at maternal and neonatal care in Subsaharan Africa and it is important to understand the human population distribution in this area in order to determine how far peoplec currently live from functioning health facilities. With this knowledge, we can better determine where new facilities need to be built and where resources ought to be allocated in order to help the most people. 
