@@ -12,6 +12,9 @@
 
 [Anderson/Kitchin Response](https://suditishyamsunder.github.io/workshop/andersonkitchin)
 
+[Stevens Response](https://suditishyamsunder.github.io/workshop/stevens)
+
+
 ### Large Assignments
 
 [Assignment 1]( https://suditishyamsunder.github.io/workshop/assignment1) 
