@@ -21,3 +21,6 @@
 ### Large Assignments
 
 [Assignment 1]( https://suditishyamsunder.github.io/workshop/assignment1) 
+
+[Assignment 2]( https://suditishyamsunder.github.io/workshop/assignment2) 
+
