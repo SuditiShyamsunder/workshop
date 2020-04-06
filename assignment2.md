@@ -37,12 +37,21 @@ It would be beneficial to do research on the distance that mothers need to trave
 
 ## Works Cited
 [1] Armstrong, Corinne E., et al. “Subnational Variation for Care at Birth in Tanzania: Is This Explained by Place, People, Money or Drugs?” BMC Public Health, vol. 16, no. S2, 2016.
+
 [2] Bee, Margaret, et al. “Neonatal Care Practices in Sub-Saharan Africa: a Systematic Review of Quantitative and Qualitative Data.” Journal of Health, Population and Nutrition, vol. 37, no. 1, 2018.
+
 [3] Bosomprah, Samuel, et al. “Spatial Distribution of Emergency Obstetric and Newborn Care Services in Ghana: Using the Evidence to Plan Interventions.” International Journal of Gynecology & Obstetrics, vol. 132, no. 1, 2015.
+
 [4] Chojenta, Catherine, et al. “The Impact of Antenatal Care on Neonatal Mortality in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.” PLOS ONE, Public Library of Science.
+
 [5] Deaton, Angus S, and Robert Tortora. “People in Sub-Saharan Africa Rate Their Health and Health Care among the Lowest in the World.” Health Affairs (Project Hope), U.S. National Library of Medicine, Mar. 2015.
+
 [6] Doctor, Henry V, et al. “Health Facility Delivery in Sub-Saharan Africa: Successes, Challenges, and Implications for the 2030 Development Agenda.” BMC Public Health, BioMed Central, 19 June 2018.
+
 [7] Lerberghe, W. Van, et al. “Factors Associated with Maternal Mortality in Sub-Saharan Africa: an Ecological Study.” BMC Public Health, BioMed Central, 1 Jan. 1970.
+
 [8] Neal, Sarah, et al. “Mapping Adolescent First Births within Three East African Countries Using Data from Demographic and Health Surveys: Exploring Geospatial Methods to Inform Policy.” Reproductive Health, vol. 13, no. 1, 23 Aug. 2016.
+
 [9] Pons-Duran, Clara, et al. “Inequalities in Sub-Saharan African Women's and Girls' Health Opportunities and Outcomes: Evidence from the Demographic and Health Surveys.” Journal of Global Health, Edinburgh University Global Health Society, June 2019.
+
 [10] Tatem, Andrew J, et al. “Mapping for Maternal and Newborn Health: the Distributions of Women of Childbearing Age, Pregnancies and Births.” International Journal of Health Geographics, vol. 13, no. 1, 4 Jan. 2014.
