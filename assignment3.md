@@ -37,9 +37,13 @@ It would be beneficial to research the distance that mothers need to travel in o
 ## Works Cited 
 
 [1] Armstrong, Corinne E., et al. “Subnational Variation for Care at Birth in Tanzania: Is This Explained by Place, People, Money or Drugs?” BMC Public Health, vol. 16, no. S2, 2016.
+
 [2] Bee, Margaret, et al. “Neonatal Care Practices in Sub-Saharan Africa: a Systematic Review of Quantitative and Qualitative Data.” Journal of Health, Population and Nutrition, vol. 37, no. 1, 2018.
+
 [3] Chojenta, Catherine, et al. “The Impact of Antenatal Care on Neonatal Mortality in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.” PLOS ONE, Public Library of Science.
+
 [4] Deaton, Angus S, and Robert Tortora. “People in Sub-Saharan Africa Rate Their Health and Health Care among the Lowest in the World.” Health Affairs (Project Hope), U.S. National Library of Medicine, Mar. 2015.
+
 [5] Neal, Sarah, et al. “Mapping Adolescent First Births within Three East African Countries Using Data from Demographic and Health Surveys: Exploring Geospatial Methods to Inform Policy.” Reproductive Health, vol. 13, no. 1, 23 Aug. 2016.
 
 
