@@ -1,8 +1,7 @@
-Data 150 
-Suditi Shyamsunder 
+# Data Science Methods Utilized to Predict Maternal and Neonatal Care in Sub-Saharan Africa
 
-
-#Data Science Methods Utilized to Predict Maternal and Neonatal Care in Sub-Saharan Africa
+By: Suditi Shyamsunder
+April 17, 2020 
 
 ## Introduction
 Throughout the world, there are insufficient health care practices and facilities for mothers and their newborns. The first week of life is a particularly vulnerable time and 73% of neonatal deaths occur during this period [2]. In developing nations in Sub-Saharan Africa, the quality of newborn and maternal care needs to be improved and standardized. A study that analyzed Gallup World Poll data found that in comparison to other regions of the world, sub-Saharan Africa has the lowest ratings for well-being and the lowest satisfaction with health care [4] Right now, newborn care practices are not up to par because resources are not being distributed where they need to be. In fact, according to another study that looked at antenatal care practices on the survival rates of newborns in Sub-Saharan Africa, utilization of at least one antenatal care visit by a skilled provider during pregnancy reduced the risk of neonatal mortality by 39% in countries within this region [3]. More health care facilities are required in rural parts of Africa and knowledge of newer practices that have been proven to save more lives need to be spread to health care providers throughout the continent. Every year, 2.9 million neonates die and saving even some of these lives is a meaningful pursuit [2].
