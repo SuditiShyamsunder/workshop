@@ -22,6 +22,6 @@
 
 [Assignment 1]( https://suditishyamsunder.github.io/workshop/assignment1) 
 
-[Assignment 2]( https://suditishyamsunder.github.io/workshop/assignment2) 
+[Assignment 2]( https://suditishyamsunder.github.io/workshop/assignment2)  
 
 [Assignment 3]( https://suditishyamsunder.github.io/workshop/assignment3) 
