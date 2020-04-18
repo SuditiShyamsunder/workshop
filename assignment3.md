@@ -1,6 +1,7 @@
 # Data Science Methods Utilized to Predict Maternal and Neonatal Care in Sub-Saharan Africa
 
 By: Suditi Shyamsunder
+
 April 17, 2020 
 
 ## Introduction
@@ -19,7 +20,6 @@ One specific sub-question that can be addressed from the broader topic is where 
 The first data science method being addressed in this paper is the Bayesian Hierarchical Regression Modeling technique. This method was utilized by a paper striving to understand the distribution of adolescent first births within three African countries: Uganda, Kenya, and Tanzania. This study utilized Demographic and Health Surveys (DHS), and the researchers analyzed the data from first births before the age of 20. They also disaggregated it into three groups: under 16, 16-17, and 18-19 years of age. Using this data combined with GPS-located cluster data and adaptive bandwidth kernel density estimates, they were able to create descriptive choropleths, and prevalence maps. In addition, they employed kernel density estimation (KDE) in order to create heatmaps. 
 
 The researchers utilized a Bayesian hierarchical regression modeling approach to map adolescent first birth at a district level with estimates of uncertainty. A Bayesian hierarchical regression model is a statistical model that allows data scientists to make conclusions about their data using Bayes Theorem, shown below. 
-
 
 More specifically, in order to map adolescent first births with estimates of uncertainty, they employed an Integrated Nested Laplace Approximation (INLA) technique. The INLA modelling approach is particularly useful for small area estimation. This technique was utilized using the INLA package in R, and it uses a Bayesian hierarchical spatial regression model. The ability to estimate uncertainties is particularly useful for discovering where future data may need to be collected. Below is a map from the paper that shows the uncertainty of their data based on the calculations from the Bayesian hierarchical regression model [5]. 
 
