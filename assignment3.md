@@ -27,12 +27,12 @@ More specifically, in order to map adolescent first births with estimates of unc
 
 ![](maps.webp) 
 
-
 ### Method 2
 The second data science technique being discussed in this paper is correlation analysis combined with GIS mapping techniques. This method was utilized by a paper that analyzed subnational inequalities in healthcare throughout Tanzania. The authors attempted to discover the distribution of healthcare inequalities as well as what was causing them. In their analyses, they utilized primarily census data, as well as some DHS data. They looked at indicators such as GDP, proportion of women with a certain level of education, total fertility rate, and number of live births. They performed bivariate correlation analyses using Stata 13.1, and considered anything with above .8 as the correlation coefficient to be a very strong association. 
 
 They also utilized geographical information system (GIS) mapping in order to visualize their results and better see the subnational variations in care at birth for women across Tanzania. They generated Choropleth and proportional maps with ArcGIS 10.3 software. They mapped subnational variations in rural birth density, births by rural women in a health facility, births by rural women by C-section, per capita recurrent expenditure, health workforce density, health facility density, and health facilities availability of tracer drugs. Below are subnational maps of coverage of care at birth for rural women in Tanzania compared to financial inputs. The first maps births by rural women in a health facility, and the second maps births by rural women by Caesarean section [1]. 
 
+![](map2.webp) 
 
 ## Conclusion
 While it is essential to understand the distribution of potential mothers as well as health care facilities, I feel there is a gap in the literature. It would be interesting to see whether or not the distribution of the need, in this case pregnant mothers, is aligned with the distribution of supply, in this case facilities. 
