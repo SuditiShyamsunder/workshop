@@ -21,7 +21,7 @@ The first data science method being addressed in this paper is the Bayesian Hier
 
 The researchers utilized a Bayesian hierarchical regression modeling approach to map adolescent first birth at a district level with estimates of uncertainty. A Bayesian hierarchical regression model is a statistical model that allows data scientists to make conclusions about their data using Bayes Theorem, shown below. 
 
-![]( https://suditishyamsunder.github.io/workshop/Bayes) 
+![](Bayes.png) 
 
 More specifically, in order to map adolescent first births with estimates of uncertainty, they employed an Integrated Nested Laplace Approximation (INLA) technique. The INLA modelling approach is particularly useful for small area estimation. This technique was utilized using the INLA package in R, and it uses a Bayesian hierarchical spatial regression model. The ability to estimate uncertainties is particularly useful for discovering where future data may need to be collected. Below is a map from the paper that shows the uncertainty of their data based on the calculations from the Bayesian hierarchical regression model [5]. 
 
