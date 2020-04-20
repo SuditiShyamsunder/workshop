@@ -25,6 +25,8 @@ The researchers utilized a Bayesian hierarchical regression modeling approach to
 
 More specifically, in order to map adolescent first births with estimates of uncertainty, they employed an Integrated Nested Laplace Approximation (INLA) technique. The INLA modelling approach is particularly useful for small area estimation. This technique was utilized using the INLA package in R, and it uses a Bayesian hierarchical spatial regression model. The ability to estimate uncertainties is particularly useful for discovering where future data may need to be collected. Below is a map from the paper that shows the uncertainty of their data based on the calculations from the Bayesian hierarchical regression model [5]. 
 
+![](maps.webp) 
+
 
 ### Method 2
 The second data science technique being discussed in this paper is correlation analysis combined with GIS mapping techniques. This method was utilized by a paper that analyzed subnational inequalities in healthcare throughout Tanzania. The authors attempted to discover the distribution of healthcare inequalities as well as what was causing them. In their analyses, they utilized primarily census data, as well as some DHS data. They looked at indicators such as GDP, proportion of women with a certain level of education, total fertility rate, and number of live births. They performed bivariate correlation analyses using Stata 13.1, and considered anything with above .8 as the correlation coefficient to be a very strong association. 
